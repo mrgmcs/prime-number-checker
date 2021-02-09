@@ -20,7 +20,7 @@ int check(int number)
 int main()
 {
     int num = 1917;
-    // cou can enter your own number inside "num"
+    // you can enter your own number inside "num"
     bool prime = check(num);
     if (prime == false)
     {
